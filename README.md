@@ -27,3 +27,6 @@ Oull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![DENEME](https://miro.medium.com/v2/resize:fit:2400/2*TZeK0kyHTRHVv3gUi8BtQg.png)
